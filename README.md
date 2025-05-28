@@ -18,7 +18,6 @@ The Coding Club website is a landing page for parents and children looking for a
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 
 ## Markdown practice
-Colons can be used to align columns.
 
 | Building        | Area table     | with markdown  |
 | ------------- |:-------------:| -----:|
